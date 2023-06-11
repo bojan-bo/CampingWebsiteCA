@@ -1,0 +1,31 @@
+﻿[
+    {
+        "_id": "644e9c53550e7ecf703bdf15",
+        "name": "Admin One",
+        "email": "admin1@example.com",
+        "password": "adminpassword1",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf16",
+        "name": "Admin Two",
+        "email": "admin2@example.com",
+        "password": "adminpassword2",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "644fbded5e2f1ac5f2899640"
+        },
+        "name": "Admin One",
+        "email": "admin1@example.com",
+        "password": "12342",
+        "createdAt": {
+            "$date": "2023-05-01T13:26:05.767Z"
+        }
+    }
+]

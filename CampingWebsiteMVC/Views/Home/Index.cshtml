@@ -1,0 +1,778 @@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- home content -->
+<section class="home">
+    <div class="content">
+        <h1>
+            <span><span id="span2">B</span>O<span id="span2">A</span>L<span id="span2">M</span>A Camping</span>
+            <br>
+            Summer <span id="span2">Savings</span>
+            <br>
+            Up To <span id="span2">30%</span> Off
+        </h1>
+        <p>
+            See our select gear for your camping experience.
+            <br>Login or Register for our offers.
+        </p>
+        <div class="btn">
+            <button onclick="location.href='@Url.Action(" Login", "Account" )'">Login</button>
+        </div>
+    </div>
+    <div class="img">
+        <img src="~/Images/main/background.jpg" alt="">
+    </div>
+</section>
+<!-- home content -->
+<!-- top product cards -->
+<div class="container" id="product-cards">
+    <h1 class="text-center">TOP PRODUCTS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/Images/main/Zempire_Trilogy_main.jpg" alt="">
+                <div class="card-body">
+                    <a href="@Url.Action(" Product", "Home" , new { id="Zempire Trilogy" })" style="text-decoration:none;">
+                        <h3 class="text-center">Zempire Trilogy</h3>
+                    </a>
+                    <p class="text-center">3 Season Tent 2P</p>
+                    <div class="star text-center">
+                        <!-- ratings -->
+                    </div>
+                    <h2>€400 <span><a href="@Url.Action(" Cart", "Home" )"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <!-- similar blocks for other products can go here-->
+    </div>
+</div>
+<!-- product cards -->
+<!-- categories -->
+<div class="container" id="categories">
+    <h1 class="text-center">CATEGORIES</h1>
+    <div class="row" style="margin-top: 30px;">
+        <!-- You can add category items here -->
+    </div>
+</div>
+<!-- categories -->
+<!-- category cards -->
+<div class="container" class="other-cards">
+    <div class="row">
+        <div class="col-md-6 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/main/CatTents_main.jpg" alt="">
+                <div class="card-img-overlay">
+                    <h3>Tents</h3>
+                    <h5>View Range</h5>
+                    <p>Up To 30% Off</p>
+                    <div class="btn">
+                        <button onclick="location.href='./index.html#Tents'">Go</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/main/CatSleepbag_main.jpg" alt="">
+                <div class="card-img-overlay">
+                    <h3>Sleeping Bags</h3>
+                    <h5>View Range</h5>
+                    <p>Up To 30% Off</p>
+                    <div class="btn">
+                        <button onclick="location.href='./index.html#Sleepingbags'">Go</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- category cards -->
+<!-- banner -->
+<section class="banner">
+    <div class="content">
+        <h1>
+            <span>Connect</span>
+            <br>
+            With <span id="span2">Us</span>
+        </h1>
+        <p>
+            Come here often?
+            <br>Why not Register an account and enjoy discounts and special offers?
+        </p>
+        <div class="btn">
+            <button onclick="location.href='@Url.Content(" ~ /register.html")'">Register</button>
+        </div>
+    </div>
+    <div class="img">
+        <img src="@Url.Content(" ~ /images/main/bottle_hiker.jpg")" alt="">
+    </div>
+</section>
+<!-- banner -->
+<!-- Catalogue Product Cards -->
+<!-- tents -->
+<section id="Tents"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">TENTS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/tents/Zempire_Trilogy.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="product.html#Zempire Trilogy">Zempire Trilogy</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€400 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/tents/mountainsmith_celestial_3.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Mountainsmith Celestial 3">Mountainsmith Celestial 3</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€184.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/tents/Marmot_Tungsten_4P.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Marmot Tungsten 4P">Marmot Tungsten 4P</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€295.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/tents/Big_Agnes_Copper.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Big Agnes Copper">Big Agnes Copper</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€320.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- tents -->
+<!-- sleeping bags -->
+<section id="Sleepingbags"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">SLEEPING BAGS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleeping_bags/Mountain_Equipment_Iceline.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Mountain Equipment Iceline">Mountain Equipment Iceline</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€1200.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleeping_bags/Rab_Mythic_Ultra_180.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Rab Mythic Ultra 180">Rab Mythic Ultra 180</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€640.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Mountain Hardwear Phantom">Mountain Hardwear Phantom</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€286.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleeping_bags/rab_unisex neutrino_400.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Rab Neutrino 400">Rab Neutrino 400</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€315.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- sleeping bags -->
+<!-- sleeping mats -->
+<section id="SleepingMats"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">SLEEPMATS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Sea to Summit Ether Light XT Extreme">Sea to Summit Ether Light XT Extreme</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€292.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Sea to Summit Comfort Deluxe">Sea to Summit Comfort Deluxe</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€245.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#Sea to Summit Comfort Plus XT">Sea to Summit Comfort Plus XT</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€275.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="./images/sleepmats/NEMO_Roamer_XL_Wide.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="./product.html#NEMO Roamer Sleeping Pad XL Wide">NEMO Roamer Sleeping Pad XL Wide</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€278.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- sleeping mats -->
+<section id="BiviBags"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">BIVI BAGS &amp; SHELTERS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/bivi_shelters/Outdoor_Research_Helium.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#OutdoorResearchHelium">Outdoor Research Helium</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€210.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#OutdoorResearchAlpineAscentShell">Outdoor Research Alpine AscentShell</a>
+                    </h3>
+                    <p class="text-center">Lorem ipsum dolor sit amet.</p>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€315.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/bivi_shelters/MSR_E-Bivy.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#MSREBivy">MSR E-Bivy</a>
+                    </h3>
+                    <p class="text-center">Lorem ipsum dolor sit amet.</p>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€140.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/bivi_shelters/Lifesystems_Light_Dry.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#LifesystemsLightDryHeatshield">Lifesystems Light &amp; Dry Heatshield Thermal</a>
+                    </h3>
+                    <p class="text-center">Lorem ipsum dolor sit amet.</p>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€15.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- sleeping mats -->
+<!-- dry bags -->
+<section id="DryBags"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">STUFF SACS &amp; DRY BAGS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stuff_dry_bags/NRS_Outfitter.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#NRSOutfitterDryBag">NRS Outfitter Dry Bag</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€45.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#SeaToSummitBigRiver">Sea to Summit Big River Dry Bag</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€55.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product#SeaToSummitLightweightSet">Sea to Summit Big River Dry Bag Set</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€40.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stuff_dry_bags/SealLine_Discovery_30L.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#SealLine Discovery Dry Bag 30L">SealLine Discovery Dry Bag - 30 Liters</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€52.00 <span><a href="cart"><i class="fa-solid fa-cart-shopping"></i></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- dry bags -->
+<!-- multitools -->
+<section id="Multitools"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">MULTITOOLS &amp; KNIVES</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/multitools/Leatherman_Skeletool.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Leatherman Skeletool">Leatherman Skeletool MultiTool</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€70.50 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/multitools/Petzl_Spatha.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Petzl Spatha">Petzl Spatha Climbing Kayaking Knife</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€28.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Victorinox Champ Swiss Army Pocket">Victorinox Champ Swiss Army Pocket Knife</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€98.50 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/multitools/Victorinox_Swiss_Card_Classic.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Victorinox Swiss Card Classic">Victorinox Swiss Card Classic Multitool</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€26.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- multitools -->
+<!-- stoves & pots -->
+<section id="Stoves &amp; Pots"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">STOVES &amp; POTS</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Esbit Alcohol Stove">Esbit Alcohol Stove and Trekking Cookset</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€83.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stoves_pots/MSR_WindBurner_System.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#MSR WindBurner Stove System">MSR WindBurner Stove System</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€198.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stoves_pots/MSR_WindBurner_Combo_System.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#MSR WindBurner Combo">MSR WindBurner Combo Stove System</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€305.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/stoves_pots/Coleman_Cascade_2Burner.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Coleman Cascade 2-Burner">Coleman Cascade 2-Burner Camp Stove</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€182.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- stoves & pots -->
+<!-- headtorches -->
+<section id="Headtorches"></section>
+<div class="container" id="product-cards">
+    <h1 class="text-center">HEADTORCHES</h1>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/headtorches/BioLite_HeadLamp_800_Pro.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#BioLite HeadLamp 800 Pro">BioLite HeadLamp 800 Pro</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€112.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/headtorches/Petzl_NAO_RL.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Petzl NAO RL Headlamp">Petzl NAO RL Headlamp</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€178.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/headtorches/Petzl_Swift_RL.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Petzl Swift RL Headlamp">Petzl Swift RL Headlamp</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€132.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <div class="card">
+                <img src="~/images/headtorches/Black_Diamond_Spot_400.jpg" alt="">
+                <div class="card-body">
+                    <h3 class="text-center">
+                        <a href="~/product.html#Black Diamond Spot 400">Black Diamond Spot 400 Headlamp</a>
+                    </h3>
+                    <div class="star text-center">
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                        <i class="fa-solid fa-star checked"></i>
+                    </div>
+                    <h2>€55.00 <span><a href="~/cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- headtorches -->
+<!-- shipping -->
+<div class="container" id="offer">
+    <div class="row">
+        <div class="col-md-3 py-3 py-md-0">
+            <i class="fa-solid fa-cart-shopping"></i>
+            <h3>Free Shipping</h3>
+            <p>Within Ireland on orders over €150</p>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <i class="fa-solid fa-rotate-left"></i>
+            <h3>Free Returns</h3>
+            <p>Within 30 days</p>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <i class="fa-solid fa-truck"></i>
+            <h3>Fast Delivery</h3>
+            <p>Within the EU</p>
+        </div>
+        <div class="col-md-3 py-3 py-md-0">
+            <i class="fa-solid fa-thumbs-up"></i>
+            <h3>Huge Range</h3>
+            <p>Many Brands</p>
+        </div>
+    </div>
+</div>
+<!-- shipping -->
+<!-- register prompt -->
+<div class="container" id="newslater">
+    <h3 class="text-center">Register with BOALMA Camping For Latest Offers.</h3>
+    <div class="input text-center">
+        <input type="text" placeholder="Enter Your Email..">
+        <div class="btn">
+            <button onclick="location.href='register.html'">Register</button>
+        </div>
+    </div>
+</div>
+<!-- register prompt -->

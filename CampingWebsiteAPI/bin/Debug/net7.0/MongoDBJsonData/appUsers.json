@@ -1,0 +1,187 @@
+﻿[
+    {
+        "_id": "644e9c53550e7ecf703bdf0f",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "password123",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        },
+        "cartItems": [
+            {
+                "product_id": "644e9c53550e7ecf703bdf10",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf11",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "password456",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        },
+        "cartItems": [
+            {
+                "product_id": "644e9c53550e7ecf703bdf12",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf13",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "password789",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        },
+        "cartItems": [
+            {
+                "product_id": "644e9c53550e7ecf703bdf14",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "644fec42545dec158a36f7ef"
+        },
+        "Name": "Markdowd",
+        "Email": "markdowd@gmail.com",
+        "Password": "1234",
+        "CreatedAt": {
+            "$date": "2023-05-01T16:43:46.158Z"
+        },
+        "CartItems": []
+    },
+    {
+        "_id": {
+            "$oid": "644ff17f9471600079758342"
+        },
+        "Name": "john",
+        "Email": "john@gmail.com",
+        "Password": "$2a$11$TLYVsBkgtDbNm2GeZUKuJOH8l/rBQXBFvFz.W5SfnaNGT/6BEPhX2",
+        "CreatedAt": {
+            "$date": "2023-05-01T17:06:06.883Z"
+        },
+        "CartItems": []
+    },
+    {
+        "_id": {
+            "$oid": "644fff52c75db62e0e8da597"
+        },
+        "Name": "Robert",
+        "Email": "Rob@gmail.com",
+        "Password": "$2a$11$v35h7.7sGtn.AtdHttFKE.doAZoXtZiJ5RR2EYDTPvW.dCIU0QvGC",
+        "CreatedAt": {
+            "$date": "2023-05-01T18:05:06.421Z"
+        },
+        "CartItems": [
+            {
+                "ProductId": null,
+                "Quantity": 9
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64503d21323b0f1971402994"
+        },
+        "Name": "jon",
+        "Email": "jon@gmail.com",
+        "Password": "$2a$11$nNTx68JO71wgOuzcDZCza.2sIy6g14AFU44grHKkQpWj9bHUd5Iva",
+        "CreatedAt": {
+            "$date": "2023-05-01T22:28:49.766Z"
+        },
+        "CartItems": []
+    },
+    {
+        "_id": {
+            "$oid": "645043d54379847f3b1d33e6"
+        },
+        "Name": "Laura",
+        "Email": "Laura@gmail.com",
+        "Password": "$2a$11$qYEwljWd1SdN/D0bQv51ZO5cF4fUw9oHCDlKzw5hGLMu1beaoQB6e",
+        "CreatedAt": {
+            "$date": "2023-05-01T22:57:25.389Z"
+        },
+        "CartItems": []
+    },
+    {
+        "_id": {
+            "$oid": "645ebda6fb41d7180212d763"
+        },
+        "Name": "John",
+        "Email": "John@gmail.com",
+        "Password": "$2a$11$eiGCLJC6Wg3Nvz3feJNs3eDIGv3D5o6tmQXcDQ7/0BuC6ySuBAcfi",
+        "CreatedAt": {
+            "$date": "2023-05-12T22:28:54.601Z"
+        },
+        "CartItems": [
+            {
+                "ProductId": "644e9c53550e7ecf703bdf22",
+                "Quantity": 5
+            },
+            {
+                "ProductId": "644e9c53550e7ecf703bdf20",
+                "Quantity": 6
+            },
+            {
+                "ProductId": "644e9c53550e7ecf703bdf1e",
+                "Quantity": 3
+            },
+            {
+                "ProductId": "644e9c53550e7ecf703bdf23",
+                "Quantity": 5
+            },
+            {
+                "ProductId": "644e9c53550e7ecf703bdf21",
+                "Quantity": 2
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "645ee0ae5411a81b67b6ecd4"
+        },
+        "Name": "mark",
+        "Email": "mark@gmail",
+        "Password": "$2a$11$QLqKjHZ7XltflD0Tvivo4uHYdPsaopchniz2R21.CL0jB.yaHSf.6",
+        "CreatedAt": {
+            "$date": "2023-05-13T00:58:22.122Z"
+        },
+        "CartItems": [
+            {
+                "ProductId": "644e9c53550e7ecf703bdf1e",
+                "Quantity": 9
+            },
+            {
+                "ProductId": "644e9c53550e7ecf703bdf20",
+                "Quantity": 1
+            },
+            {
+                "ProductId": "644e9c53550e7ecf703bdf22",
+                "Quantity": 1
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64611735b031c07893cb2132"
+        },
+        "Name": "Sean",
+        "Email": "sean@gmail.com",
+        "Password": "$2a$11$nnJg4iqZ/tq2zyikxs8nD.ElSRLSdRLWtE8BQeh1qHP8hNlh/VN.q",
+        "CreatedAt": {
+            "$date": "2023-05-14T17:15:32.982Z"
+        },
+        "CartItems": [
+            {
+                "ProductId": "644e9c53550e7ecf703bdf21",
+                "Quantity": 6
+            }
+        ]
+    }
+]

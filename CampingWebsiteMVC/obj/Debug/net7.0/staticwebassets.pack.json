@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/CampingWebsiteMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/CampingWebsiteMVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/arrow.png",
+      "PackagePath": "staticwebassets/images/arrow.png"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Lifesystems_Light_Dry.jpg",
+      "PackagePath": "staticwebassets/images/bivi_shelters/Lifesystems_Light_Dry.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/MSR_E-Bivy.jpg",
+      "PackagePath": "staticwebassets/images/bivi_shelters/MSR_E-Bivy.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg",
+      "PackagePath": "staticwebassets/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Bug.jpg",
+      "PackagePath": "staticwebassets/images/bivi_shelters/Outdoor_Research_Bug.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Helium.jpg",
+      "PackagePath": "staticwebassets/images/bivi_shelters/Outdoor_Research_Helium.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/SOL_Escape_Lite.jpg",
+      "PackagePath": "staticwebassets/images/bivi_shelters/SOL_Escape_Lite.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img1.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img1.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img2.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img2.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img3.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img3.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img4.5.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img4.5.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img4.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img4.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img5.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img5.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img6.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img6.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img7.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img7.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img8.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img8.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img9.jpg",
+      "PackagePath": "staticwebassets/images/clothes/img9.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/BioLite_HeadLamp_800_Pro.jpg",
+      "PackagePath": "staticwebassets/images/headtorches/BioLite_HeadLamp_800_Pro.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Black_Diamond_Spot_400.jpg",
+      "PackagePath": "staticwebassets/images/headtorches/Black_Diamond_Spot_400.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_NAO_RL.jpg",
+      "PackagePath": "staticwebassets/images/headtorches/Petzl_NAO_RL.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_Swift_RL.jpg",
+      "PackagePath": "staticwebassets/images/headtorches/Petzl_Swift_RL.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_Tikka.jpg",
+      "PackagePath": "staticwebassets/images/headtorches/Petzl_Tikka.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/left-arrow.png",
+      "PackagePath": "staticwebassets/images/left-arrow.png"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/BiviShelters_main.jpg",
+      "PackagePath": "staticwebassets/images/main/BiviShelters_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/CatSleepbag_main.jpg",
+      "PackagePath": "staticwebassets/images/main/CatSleepbag_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/CatTents_main.jpg",
+      "PackagePath": "staticwebassets/images/main/CatTents_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Leatherman_Charge_Plus_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Leatherman_Charge_Plus_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/NEMO_Roamer_XL_Wide_main.jpg",
+      "PackagePath": "staticwebassets/images/main/NEMO_Roamer_XL_Wide_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Outdoor_Research_Alpine_AscentShell_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Outdoor_Research_Alpine_AscentShell_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Petzl_Tikka_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Petzl_Tikka_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Sea_to_Summit_Big_River_50L_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Sea_to_Summit_Big_River_50L_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Stoves_Pots_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Stoves_Pots_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Zempire_Trilogy_main.jpg",
+      "PackagePath": "staticwebassets/images/main/Zempire_Trilogy_main.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/about.jpg",
+      "PackagePath": "staticwebassets/images/main/about.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/background.jpg",
+      "PackagePath": "staticwebassets/images/main/background.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/bottle_hiker.jpg",
+      "PackagePath": "staticwebassets/images/main/bottle_hiker.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/menu.png",
+      "PackagePath": "staticwebassets/images/menu.png"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Charge_Plus.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Leatherman_Charge_Plus.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Skeletool.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Leatherman_Skeletool.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Skeletool_detail.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Leatherman_Skeletool_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Petzl_Spatha.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Petzl_Spatha.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Petzl_Spatha_detail.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Petzl_Spatha_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket_detail.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Victorinox_Champ_Swiss_Army_Pocket_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Swiss_Card_Classic.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Victorinox_Swiss_Card_Classic.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Swiss_Card_Classic_detail.jpg",
+      "PackagePath": "staticwebassets/images/multitools/Victorinox_Swiss_Card_Classic_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/register.png",
+      "PackagePath": "staticwebassets/images/register.png"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/right-arrow.png",
+      "PackagePath": "staticwebassets/images/right-arrow.png"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/Mountain_Equipment_Iceline.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/Mountain_Equipment_Iceline_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/Rab_Mythic_Ultra_180.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/Rab_Mythic_Ultra_180_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/The_North_Face_Inferno_Double.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/The_North_Face_Inferno_Double.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/rab_unisex neutrino_400.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/rab_unisex neutrino_400.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/rab_unisex neutrino_400_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleeping_bags/rab_unisex neutrino_400_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/NEMO_Roamer_XL_Wide.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/NEMO_Roamer_XL_Wide_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Sea_to_Summit_Comfort_Deluxe_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme_detail.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Therm_a_Rest_NeoAir_XLite_NXT_Max.jpg",
+      "PackagePath": "staticwebassets/images/sleepmats/Therm_a_Rest_NeoAir_XLite_NXT_Max.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Coleman_Cascade_2Burner.jpg",
+      "PackagePath": "staticwebassets/images/stoves_pots/Coleman_Cascade_2Burner.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg",
+      "PackagePath": "staticwebassets/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Jetboil_HalfGen_System.jpg",
+      "PackagePath": "staticwebassets/images/stoves_pots/Jetboil_HalfGen_System.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Jetboil_MiniMo.jpg",
+      "PackagePath": "staticwebassets/images/stoves_pots/Jetboil_MiniMo.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/MSR_WindBurner_Combo_System.jpg",
+      "PackagePath": "staticwebassets/images/stoves_pots/MSR_WindBurner_Combo_System.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/MSR_WindBurner_System.jpg",
+      "PackagePath": "staticwebassets/images/stoves_pots/MSR_WindBurner_System.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/NRS_Outfitter.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/NRS_Outfitter.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/NRS_Outfitter_detail.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/NRS_Outfitter_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L_detail.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_50L.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/Sea_to_Summit_Big_River_50L.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set_detail.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/SealLine_Discovery_30L.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L_detail.jpg",
+      "PackagePath": "staticwebassets/images/stuff_dry_bags/SealLine_Discovery_30L_detail.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Big_Agnes_Copper.jpg",
+      "PackagePath": "staticwebassets/images/tents/Big_Agnes_Copper.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Lightwave_T20_Hyper.jpg",
+      "PackagePath": "staticwebassets/images/tents/Lightwave_T20_Hyper.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Marmot_Tungsten_4P.jpg",
+      "PackagePath": "staticwebassets/images/tents/Marmot_Tungsten_4P.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Zempire_Trilogy.jpg",
+      "PackagePath": "staticwebassets/images/tents/Zempire_Trilogy.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/mountainsmith_celestial_3.jpg",
+      "PackagePath": "staticwebassets/images/tents/mountainsmith_celestial_3.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/the_North_Face_Wawona_6.jpg",
+      "PackagePath": "staticwebassets/images/tents/the_North_Face_Wawona_6.jpg"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.CampingWebsiteMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.CampingWebsiteMVC.props",
+      "PackagePath": "build\\CampingWebsiteMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CampingWebsiteMVC.props",
+      "PackagePath": "buildMultiTargeting\\CampingWebsiteMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CampingWebsiteMVC.props",
+      "PackagePath": "buildTransitive\\CampingWebsiteMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

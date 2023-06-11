@@ -1,0 +1,56 @@
+﻿[
+    {
+        "_id": "644e9c53550e7ecf703bdf1d",
+        "app_user_id": "644e9c53550e7ecf703bdf0f",
+        "total_amount": 499.99,
+        "shipping_address": "123 Main St, New York, NY 10001",
+        "billing_address": "123 Main St, New York, NY 10001",
+        "order_status": "Shipped",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        },
+        "orderItems": [
+            {
+                "product_id": "644e9c53550e7ecf703bdf1e",
+                "quantity": 1,
+                "price": 499.99
+            }
+        ]
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf1f",
+        "app_user_id": "644e9c53550e7ecf703bdf10",
+        "total_amount": 19.99,
+        "shipping_address": "456 Oak St, Los Angeles, CA 90001",
+        "billing_address": "456 Oak St, Los Angeles, CA 90001",
+        "order_status": "Delivered",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        },
+        "orderItems": [
+            {
+                "product_id": "644e9c53550e7ecf703bdf20",
+                "quantity": 1,
+                "price": 19.99
+            }
+        ]
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf21",
+        "app_user_id": "644e9c53550e7ecf703bdf11",
+        "total_amount": 79.99,
+        "shipping_address": "789 Pine St, Chicago, IL 60601",
+        "billing_address": "789 Pine St, Chicago, IL 60601",
+        "order_status": "Processing",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        },
+        "orderItems": [
+            {
+                "product_id": "644e9c53550e7ecf703bdf22",
+                "quantity": 1,
+                "price": 79.99
+            }
+        ]
+    }
+]

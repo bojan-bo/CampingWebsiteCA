@@ -1,0 +1,32 @@
+﻿[
+    {
+        "_id": "644e9c53550e7ecf703bdf1a",
+        "app_user_id": "644e9c53550e7ecf703bdf0f",
+        "subject": "Shipping Inquiry",
+        "description": "When will my order be shipped?",
+        "status": "Open",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf1b",
+        "app_user_id": "644e9c53550e7ecf703bdf10",
+        "subject": "Return Request",
+        "description": "I would like to return my recent purchase",
+        "status": "Pending",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf1c",
+        "app_user_id": "644e9c53550e7ecf703bdf11",
+        "subject": "Product Question",
+        "description": "What are the dimensions of the product?",
+        "status": "Resolved",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    }
+]

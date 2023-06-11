@@ -1,0 +1,32 @@
+﻿[
+    {
+        "_id": "644e9c53550e7ecf703bdf23",
+        "app_user_id": "644e9c53550e7ecf703bdf0f",
+        "product_id": "644e9c53550e7ecf703bdf1e",
+        "rating": 5,
+        "comment": "Great product! Highly recommended",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf24",
+        "app_user_id": "644e9c53550e7ecf703bdf10",
+        "product_id": "644e9c53550e7ecf703bdf20",
+        "rating": 4,
+        "comment": "Good read, but a bit predictable",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf25",
+        "app_user_id": "644e9c53550e7ecf703bdf11",
+        "product_id": "644e9c53550e7ecf703bdf22",
+        "rating": 3,
+        "comment": "Comfortable but not very durable",
+        "createdAt": {
+            "$date": "2023-05-01T00:00:00.000Z"
+        }
+    }
+]

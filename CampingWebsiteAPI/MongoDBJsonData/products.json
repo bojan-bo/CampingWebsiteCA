@@ -1,0 +1,120 @@
+﻿[
+    {
+        "_id": "644e9c53550e7ecf703bdf23",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Sleeping Bag",
+        "description": "Warm and cozy sleeping bag for a comfortable night's sleep",
+        "image_url": "https://example.com/sleeping_bag.jpg",
+        "price": 79.99,
+        "stock": 75,
+        "createdAt": {
+            "$date": "2023-05-02T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf24",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Camping Stove",
+        "description": "Portable and reliable camping stove for cooking outdoors",
+        "image_url": "https://example.com/camping_stove.jpg",
+        "price": 59.99,
+        "stock": 40,
+        "createdAt": {
+            "$date": "2023-05-03T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf25",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Portable Camping Chair",
+        "description": "Lightweight and foldable camping chair for convenient seating",
+        "image_url": "https://example.com/camping_chair.jpg",
+        "price": 29.99,
+        "stock": 60,
+        "createdAt": {
+            "$date": "2023-05-03T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf26",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Camping Lantern",
+        "description": "Bright and energy-efficient camping lantern for nighttime illumination",
+        "image_url": "https://example.com/camping_lantern.jpg",
+        "price": 24.99,
+        "stock": 80,
+        "createdAt": {
+            "$date": "2023-05-04T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf21",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Camping Tent",
+        "description": "Spacious and durable camping tent for outdoor adventures",
+        "image_url": "https://ae01.alicdn.com/kf/S461944ec00a848458a1c0b86e9950b46l/WolFAce-3-4-Person-Camping-Tent-Waterproof-Automatic-Tent-Single-Layer-Tent-Sun-Shelter-Travelling-Hiking.jpg",
+        "price": 149.99,
+        "stock": 50,
+        "createdAt": {
+            "$date": "2023-05-02T00:00:00.000Z"
+        },
+        "IsOnSale": true,
+        "OriginalPrice": 199.99
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf27",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Camping Cookware Set",
+        "description": "Compact and durable cookware set for preparing meals while camping",
+        "image_url": "https://example.com/camping_cookware.jpg",
+        "price": 39.99,
+        "stock": 35,
+        "createdAt": {
+            "$date": "2023-05-04T00:00:00.000Z"
+        },
+        "IsOnSale": true,
+        "OriginalPrice": 49.99
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf28",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Camping Hammock",
+        "description": "Comfortable and lightweight camping hammock for relaxation",
+        "image_url": "https://example.com/camping_hammock.jpg",
+        "price": 49.99,
+        "stock": 25,
+        "createdAt": {
+            "$date": "2023-05-05T00:00:00.000Z"
+        },
+        "IsOnSale": true,
+        "OriginalPrice": 59.99
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf30",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Camping Backpack",
+        "description": "Spacious and comfortable camping backpack for carrying gear",
+        "image_url": "https://example.com/camping_backpack.jpg",
+        "price": 89.99,
+        "stock": 20,
+        "createdAt": {
+            "$date": "2023-05-06T00:00:00.000Z"
+        },
+        "IsOnSale": true,
+        "OriginalPrice": 99.99
+    },
+    {
+        "_id": "644e9c53550e7ecf703bdf29",
+        "category_id": "644e9c53550e7ecf703bdf18",
+        "name": "Portable Water Filter",
+        "description": "Convenient and effective water filter for purifying water on the go",
+        "image_url": "https://example.com/water_filter.jpg",
+        "price": 34.99,
+        "stock": 45,
+        "createdAt": {
+            "$date": "2023-05-05T00:00:00.000Z"
+        },
+        "IsOnSale": true,
+        "OriginalPrice": 39.99
+    }
+]
