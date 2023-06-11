@@ -1,0 +1,55 @@
+﻿# .gitignore for ASP.NET Core 6
+
+# Ignore NuGet package directory
+**/obj/
+**/bin/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.log
+*.tmp
+*.swp
+
+# Ignore Visual Studio files
+*.csproj.user
+.vscode/
+
+# Ignore test results
+[Test]*
+*.TestResults/
+
+# Ignore MSTest files
+*.trx
+
+# Ignore Resharper cache, analysis, and test files
+_ReSharper*/
+*.ReSharper*
+*.DotSettings.user
+
+# Ignore build results of MSBuild
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Nn]b[Cc]ache/
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults*/
+[Bb]uild[Ll]og.*
+msbuild.log
+
+# Ignore publish profiles
+*.pubxml
+*.pubxml.user

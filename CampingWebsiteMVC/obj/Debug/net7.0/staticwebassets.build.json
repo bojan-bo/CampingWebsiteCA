@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WG+3Ql85ddqJKWzibi3JajJomMmemuzsmoC94wBu55I=",
+  "Hash": "0gyyP+4bqbtuZ69fIIvARC4NTzpgASUcSBpcTLhwu5Y=",
   "Source": "CampingWebsiteMVC",
   "BasePath": "_content/CampingWebsiteMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CampingWebsiteMVC/wwwroot",
       "Source": "CampingWebsiteMVC",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/bundle/CampingWebsiteMVC.styles.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/bundle/CampingWebsiteMVC.styles.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "CampingWebsiteMVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/bundle/CampingWebsiteMVC.styles.css"
+      "OriginalItemSpec": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/bundle/CampingWebsiteMVC.styles.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/CampingWebsiteMVC.bundle.scp.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/CampingWebsiteMVC.bundle.scp.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "CampingWebsiteMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/CampingWebsiteMVC.bundle.scp.css"
+      "OriginalItemSpec": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/Debug/net7.0/scopedcss/projectbundle/CampingWebsiteMVC.bundle.scp.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/.DS_Store",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/.DS_Store",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/.DS_Store",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/.DS_Store",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/.DS_Store"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/site.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/site.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/style.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/css/style.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/favicon.ico",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/favicon.ico",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/arrow.png",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/arrow.png",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/arrow.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/images/arrow.png"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Lifesystems_Light_Dry.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Lifesystems_Light_Dry.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/bivi_shelters/Lifesystems_Light_Dry.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/images/bivi_shelters/Lifesystems_Light_Dry.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/MSR_E-Bivy.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/MSR_E-Bivy.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/bivi_shelters/MSR_E-Bivy.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/images/bivi_shelters/MSR_E-Bivy.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Bug.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Bug.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/bivi_shelters/Outdoor_Research_Bug.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/images/bivi_shelters/Outdoor_Research_Bug.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Helium.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/Outdoor_Research_Helium.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/bivi_shelters/Outdoor_Research_Helium.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/images/bivi_shelters/Outdoor_Research_Helium.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/SOL_Escape_Lite.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/bivi_shelters/SOL_Escape_Lite.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/bivi_shelters/SOL_Escape_Lite.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/images/bivi_shelters/SOL_Escape_Lite.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img1.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img1.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img1.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img1.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img2.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img2.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img2.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img2.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img3.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img3.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img3.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img3.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img4.5.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img4.5.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img4.5.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img4.5.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img4.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img4.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img4.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img4.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img5.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img5.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img5.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img5.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img6.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img6.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img6.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img6.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img7.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img7.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img7.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img7.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img8.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img8.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img8.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img8.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img9.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/clothes/img9.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/clothes/img9.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/images/clothes/img9.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/BioLite_HeadLamp_800_Pro.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/BioLite_HeadLamp_800_Pro.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/headtorches/BioLite_HeadLamp_800_Pro.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/images/headtorches/BioLite_HeadLamp_800_Pro.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Black_Diamond_Spot_400.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Black_Diamond_Spot_400.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/headtorches/Black_Diamond_Spot_400.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/images/headtorches/Black_Diamond_Spot_400.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_NAO_RL.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_NAO_RL.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/headtorches/Petzl_NAO_RL.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/images/headtorches/Petzl_NAO_RL.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_Swift_RL.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_Swift_RL.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/headtorches/Petzl_Swift_RL.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/images/headtorches/Petzl_Swift_RL.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_Tikka.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/headtorches/Petzl_Tikka.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/headtorches/Petzl_Tikka.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/images/headtorches/Petzl_Tikka.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/left-arrow.png",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/left-arrow.png",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/left-arrow.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/images/left-arrow.png"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/about.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/about.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/about.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/images/main/about.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/background.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/background.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/background.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/images/main/background.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/BiviShelters_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/BiviShelters_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/BiviShelters_main.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/images/main/BiviShelters_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/bottle_hiker.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/bottle_hiker.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/bottle_hiker.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/images/main/bottle_hiker.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/CatSleepbag_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/CatSleepbag_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/CatSleepbag_main.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/images/main/CatSleepbag_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/CatTents_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/CatTents_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/CatTents_main.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/images/main/CatTents_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Leatherman_Charge_Plus_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Leatherman_Charge_Plus_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Leatherman_Charge_Plus_main.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Leatherman_Charge_Plus_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/NEMO_Roamer_XL_Wide_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/NEMO_Roamer_XL_Wide_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/NEMO_Roamer_XL_Wide_main.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/images/main/NEMO_Roamer_XL_Wide_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Outdoor_Research_Alpine_AscentShell_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Outdoor_Research_Alpine_AscentShell_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Outdoor_Research_Alpine_AscentShell_main.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Outdoor_Research_Alpine_AscentShell_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Petzl_Tikka_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Petzl_Tikka_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Petzl_Tikka_main.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Petzl_Tikka_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Sea_to_Summit_Big_River_50L_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Sea_to_Summit_Big_River_50L_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Sea_to_Summit_Big_River_50L_main.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Sea_to_Summit_Big_River_50L_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Stoves_Pots_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Stoves_Pots_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Stoves_Pots_main.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Stoves_Pots_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Zempire_Trilogy_main.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/main/Zempire_Trilogy_main.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/main/Zempire_Trilogy_main.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/images/main/Zempire_Trilogy_main.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/menu.png",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/menu.png",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/menu.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/images/menu.png"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Charge_Plus.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Charge_Plus.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Leatherman_Charge_Plus.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Leatherman_Charge_Plus.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Skeletool_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Skeletool_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Leatherman_Skeletool_detail.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Leatherman_Skeletool_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Skeletool.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Leatherman_Skeletool.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Leatherman_Skeletool.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Leatherman_Skeletool.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Petzl_Spatha_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Petzl_Spatha_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Petzl_Spatha_detail.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Petzl_Spatha_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Petzl_Spatha.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Petzl_Spatha.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Petzl_Spatha.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Petzl_Spatha.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Victorinox_Champ_Swiss_Army_Pocket_detail.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Swiss_Card_Classic_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Swiss_Card_Classic_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Victorinox_Swiss_Card_Classic_detail.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Victorinox_Swiss_Card_Classic_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Swiss_Card_Classic.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/multitools/Victorinox_Swiss_Card_Classic.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/multitools/Victorinox_Swiss_Card_Classic.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/images/multitools/Victorinox_Swiss_Card_Classic.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/register.png",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/register.png",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/register.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/images/register.png"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/right-arrow.png",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/right-arrow.png",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/right-arrow.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/images/right-arrow.png"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/Mountain_Equipment_Iceline_detail.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/Mountain_Equipment_Iceline.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/Mountain_Equipment_Iceline.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40_detail.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/Rab_Mythic_Ultra_180_detail.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/Rab_Mythic_Ultra_180.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/Rab_Mythic_Ultra_180.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/rab_unisex neutrino_400_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/rab_unisex neutrino_400_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/rab_unisex neutrino_400_detail.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/rab_unisex neutrino_400_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/rab_unisex neutrino_400.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/rab_unisex neutrino_400.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/rab_unisex neutrino_400.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/rab_unisex neutrino_400.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/The_North_Face_Inferno_Double.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleeping_bags/The_North_Face_Inferno_Double.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleeping_bags/The_North_Face_Inferno_Double.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/images/sleeping_bags/The_North_Face_Inferno_Double.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/NEMO_Roamer_XL_Wide_detail.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/NEMO_Roamer_XL_Wide.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/NEMO_Roamer_XL_Wide.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Sea_to_Summit_Comfort_Deluxe_detail.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Sea_to_Summit_Comfort_Plus_XT_detail.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme_detail.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Therm_a_Rest_NeoAir_XLite_NXT_Max.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/sleepmats/Therm_a_Rest_NeoAir_XLite_NXT_Max.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/sleepmats/Therm_a_Rest_NeoAir_XLite_NXT_Max.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/images/sleepmats/Therm_a_Rest_NeoAir_XLite_NXT_Max.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Coleman_Cascade_2Burner.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Coleman_Cascade_2Burner.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stoves_pots/Coleman_Cascade_2Burner.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/images/stoves_pots/Coleman_Cascade_2Burner.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Jetboil_HalfGen_System.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Jetboil_HalfGen_System.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stoves_pots/Jetboil_HalfGen_System.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/images/stoves_pots/Jetboil_HalfGen_System.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Jetboil_MiniMo.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/Jetboil_MiniMo.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stoves_pots/Jetboil_MiniMo.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/images/stoves_pots/Jetboil_MiniMo.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/MSR_WindBurner_Combo_System.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/MSR_WindBurner_Combo_System.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stoves_pots/MSR_WindBurner_Combo_System.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/images/stoves_pots/MSR_WindBurner_Combo_System.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/MSR_WindBurner_System.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stoves_pots/MSR_WindBurner_System.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stoves_pots/MSR_WindBurner_System.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/images/stoves_pots/MSR_WindBurner_System.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/NRS_Outfitter_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/NRS_Outfitter_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/NRS_Outfitter_detail.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/NRS_Outfitter_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/NRS_Outfitter.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/NRS_Outfitter.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/NRS_Outfitter.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/NRS_Outfitter.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/Sea_to_Summit_Big_River_35L_detail.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_50L.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_50L.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/Sea_to_Summit_Big_River_50L.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/Sea_to_Summit_Big_River_50L.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set_detail.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L_detail.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L_detail.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/SealLine_Discovery_30L_detail.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L_detail.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/stuff_dry_bags/SealLine_Discovery_30L.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/images/stuff_dry_bags/SealLine_Discovery_30L.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Big_Agnes_Copper.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Big_Agnes_Copper.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/tents/Big_Agnes_Copper.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/images/tents/Big_Agnes_Copper.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Lightwave_T20_Hyper.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Lightwave_T20_Hyper.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/tents/Lightwave_T20_Hyper.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/images/tents/Lightwave_T20_Hyper.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Marmot_Tungsten_4P.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Marmot_Tungsten_4P.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/tents/Marmot_Tungsten_4P.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/images/tents/Marmot_Tungsten_4P.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/mountainsmith_celestial_3.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/mountainsmith_celestial_3.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/tents/mountainsmith_celestial_3.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/images/tents/mountainsmith_celestial_3.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/the_North_Face_Wawona_6.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/the_North_Face_Wawona_6.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/tents/the_North_Face_Wawona_6.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/images/tents/the_North_Face_Wawona_6.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Zempire_Trilogy.jpg",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/images/tents/Zempire_Trilogy.jpg",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "images/tents/Zempire_Trilogy.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/images/tents/Zempire_Trilogy.jpg"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/js/site.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/js/site.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "CampingWebsiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
+      "ContentRoot": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/wwwroot/",
       "BasePath": "_content/CampingWebsiteMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

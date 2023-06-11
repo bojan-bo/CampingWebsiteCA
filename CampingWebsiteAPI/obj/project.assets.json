@@ -10759,11 +10759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteAPI/CampingWebsiteAPI.csproj",
+      "projectUniqueName": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteAPI/CampingWebsiteAPI.csproj",
       "projectName": "CampingWebsiteAPI",
-      "projectPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteAPI/CampingWebsiteAPI.csproj",
+      "projectPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteAPI/CampingWebsiteAPI.csproj",
       "packagesPath": "/Users/mraka/.nuget/packages/",
-      "outputPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteAPI/obj/",
+      "outputPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mraka/.nuget/NuGet/NuGet.Config"

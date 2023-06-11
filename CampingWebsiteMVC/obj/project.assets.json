@@ -800,11 +800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/CampingWebsiteMVC.csproj",
+      "projectUniqueName": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/CampingWebsiteMVC.csproj",
       "projectName": "CampingWebsiteMVC",
-      "projectPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/CampingWebsiteMVC.csproj",
+      "projectPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/CampingWebsiteMVC.csproj",
       "packagesPath": "/Users/mraka/.nuget/packages/",
-      "outputPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteMVC/obj/",
+      "outputPath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mraka/.nuget/NuGet/NuGet.Config"

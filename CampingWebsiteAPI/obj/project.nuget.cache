@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IBiXswrmyF0wU8paQC+i7amwiOtdBqhJNZ7+uoKEOB1TE4OkyQSF0dcZqkxgcWODLNm2+tI+iSmG0StpElE+iQ==",
+  "dgSpecHash": "JsPjtFjP8178frhMUEy6f8tWhzZ1KrwuUNZQ0/34qRgpfiZF5dyDSYs7KsshVN5GOdCzb7nBeZwJNzKsz1GZ1Q==",
   "success": true,
-  "projectFilePath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA WebAPI/CampingWebsiteCA/CampingWebsiteAPI/CampingWebsiteAPI.csproj",
+  "projectFilePath": "/Users/mraka/DBS/B8IT146 Web and Cloud Application Development/CA/GitHub/CampingWebsiteCA/CampingWebsiteAPI/CampingWebsiteAPI.csproj",
   "expectedPackageFiles": [
     "/Users/mraka/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/mraka/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
