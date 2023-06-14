@@ -25,9 +25,20 @@ namespace CampingWebsiteAPI.Services
             if (item != null)
             {
                 item.Quantity++;
-                _appUserService.Update(user.Id, user);
             }
+            else
+            {
+                // If the item is not in the cart, add it
+                var newItem = new CartItem
+                {
+                    ProductId = productId,
+                    Quantity = 1
+                };
+                user.CartItems.Add(newItem);
+            }
+            _appUserService.Update(user.Id, user);
         }
+
 
         public async Task ClearCartAsync(string userId)
         {

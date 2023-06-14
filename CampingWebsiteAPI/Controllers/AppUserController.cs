@@ -1,9 +1,11 @@
 ﻿using CampingWebsiteAPI.Models;
 using CampingWebsiteAPI.Services;
 using Microsoft.AspNetCore.Mvc;
-
-
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 
 namespace CampingWebsiteAPI.Controllers
 {
@@ -12,10 +14,12 @@ namespace CampingWebsiteAPI.Controllers
     public class AppUserController : ControllerBase
     {
         private readonly AppUserService _appUserService;
+        private readonly IConfiguration _configuration;
 
-        public AppUserController(AppUserService appUserService)
+        public AppUserController(AppUserService appUserService, IConfiguration configuration)
         {
             _appUserService = appUserService;
+            _configuration = configuration;
         }
 
         [HttpPost("register")]
@@ -39,17 +43,32 @@ namespace CampingWebsiteAPI.Controllers
             var appUser = _appUserService.FindByEmail(model.Email);
             if (appUser != null && BCrypt.Net.BCrypt.Verify(model.Password, appUser.Password))
             {
+                var tokenHandler = new JwtSecurityTokenHandler();
+                var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
+                var tokenDescriptor = new SecurityTokenDescriptor
+                {
+                    Subject = new ClaimsIdentity(new Claim[] 
+                    {
+                        new Claim(ClaimTypes.Name, appUser.Id.ToString())
+                        // Add other claims as needed
+                    }),
+                    Expires = DateTime.UtcNow.AddDays(7),
+                    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+                };
+                var token = tokenHandler.CreateToken(tokenDescriptor);
                 var response = new
                 {
                     UserId = appUser.Id,
                     UserName = appUser.Name,
-                    CartItemCount = appUser.CartItems.Sum(item => item.Quantity)
+                    CartItemCount = appUser.CartItems.Count, // assuming CartItems is a list or collection
+                    Token = tokenHandler.WriteToken(token)
                 };
                 return Ok(response);
             }
 
             return Unauthorized();
         }
+
 
         [HttpPost("logout")]
         public IActionResult Logout()

@@ -1,14 +1,12 @@
 ﻿using CampingWebsiteAPI.Services;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace CampingWebsiteAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class CartController : ControllerBase
     {
         private readonly CartService _cartService;
@@ -23,12 +21,7 @@ namespace CampingWebsiteAPI.Controllers
         [HttpPost("increase-quantity/{productId}")]
         public IActionResult IncreaseQuantity(string productId)
         {
-            string userId = HttpContext.Session.GetString("UserId");
-
-            if (userId == null)
-            {
-                return Unauthorized();
-            }
+            string userId = HttpContext.User.Identity.Name;
 
             _cartService.IncreaseQuantity(userId, productId);
             int cartItemCount = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items.Sum(item => item.Quantity) ?? 0;
@@ -39,12 +32,7 @@ namespace CampingWebsiteAPI.Controllers
         [HttpPost("decrease-quantity/{productId}")]
         public IActionResult DecreaseQuantity(string productId)
         {
-            string userId = HttpContext.Session.GetString("UserId");
-
-            if (userId == null)
-            {
-                return Unauthorized();
-            }
+            string userId = HttpContext.User.Identity.Name;
 
             _cartService.DecreaseQuantity(userId, productId);
             int cartItemCount = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items.Sum(item => item.Quantity) ?? 0;
@@ -55,6 +43,4 @@ namespace CampingWebsiteAPI.Controllers
         // Add other actions to manage the cart (e.g., AddItem, RemoveItem, UpdateQuantity)
     }
 }
-
-
 

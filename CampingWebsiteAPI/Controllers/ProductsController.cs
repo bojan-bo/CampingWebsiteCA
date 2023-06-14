@@ -1,8 +1,7 @@
 ﻿using CampingWebsiteAPI.Models;
 using CampingWebsiteAPI.Services;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using Microsoft.AspNetCore.Authorization;
 
 namespace CampingWebsiteAPI.Controllers
 {
@@ -45,14 +44,10 @@ namespace CampingWebsiteAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public IActionResult AddToCart([FromBody] CartItem cartItem)
         {
-            string userId = HttpContext.Session.GetString("UserId");
-
-            if (userId == null)
-            {
-                return Unauthorized();
-            }
+            string userId = HttpContext.User.Identity.Name;
 
             _cartService.AddItem(userId, cartItem);
 
@@ -60,10 +55,7 @@ namespace CampingWebsiteAPI.Controllers
             currentUser.CartItems = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items;
             _appUserService.Update(currentUser.Id, currentUser);
 
-            HttpContext.Session.SetInt32("CartItemCount", currentUser.CartItems.Sum(item => item.Quantity));
-
             return Ok();
         }
     }
 }
-
