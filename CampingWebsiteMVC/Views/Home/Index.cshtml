@@ -1,4 +1,5 @@
 @{
+    ViewData["Title"] = "Home Page";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
@@ -17,7 +18,7 @@
             <br>Login or Register for our offers.
         </p>
         <div class="btn">
-            <button onclick="location.href='@Url.Action(" Login", "Account" )'">Login</button>
+            <button onclick="location.href='@Url.Action("Login", "Home")'">Login</button>
         </div>
     </div>
     <div class="img">
@@ -25,69 +26,227 @@
     </div>
 </section>
 <!-- home content -->
+
 <!-- top product cards -->
 <div class="container" id="product-cards">
     <h1 class="text-center">TOP PRODUCTS</h1>
-    <div class="row" style="margin-top: 30px;">
-        <div class="col-md-3 py-3 py-md-0">
-            <div class="card">
-                <img src="~/Images/main/Zempire_Trilogy_main.jpg" alt="">
-                <div class="card-body">
-                    <a href="@Url.Action(" Product", "Home" , new { id="Zempire Trilogy" })" style="text-decoration:none;">
-                        <h3 class="text-center">Zempire Trilogy</h3>
-                    </a>
-                    <p class="text-center">3 Season Tent 2P</p>
-                    <div class="star text-center">
-                        <!-- ratings -->
-                    </div>
-                    <h2>€400 <span><a href="@Url.Action(" Cart", "Home" )"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
-                </div>
+    <div class="row" style="margin-top: 30p">
+    <div class="col-md-3 py-3 py-md-0"> 
+        <div class="card">
+        <img src="./images/main/Zempire_Trilogy_main.jpg" alt="">
+        <div class="card-body">
+            <a href="@Url.Action("Product", "Home")#ZempireTrilogy">
+            <h3 class="text-center">Zempire Trilogy</h3>
+            </a>
+            <p class="text-center">3 Season Tent 2P</p>
+            <div class="star text-center">
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
             </div>
+            <h2>€400 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
         </div>
-        <!-- similar blocks for other products can go here-->
+        </div>
+    </div>
+    <div class="col-md-3 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/NEMO_Roamer_XL_Wide_main.jpg" alt="">
+        <div class="card-body">
+            <!--<a href="./product.html#NEMO Roamer Sleeping Pad XL Wide" style="text-decoration:none;"> -->
+            <a href="@Url.Action("Product", "Home")#NEMO Roamer Sleeping Pad XL Wide">
+            <h3 class="text-center">NEMO Roamer</h3>
+            </a>
+            <p class="text-center">Sleeping Pad</p>
+            <div class="star text-center">
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            </div>
+            <h2>€180.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-3 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Mountain_Hardwear_Phantom_GORE_TEX_40_main.jpg" alt="">
+        <div class="card-body">
+            <!--  <a href="./product.html#Mountain Hardwear Phantom" style="text-decoration:none;"> -->
+            <a href="@Url.Action("Product", "Home")#Mountain Hardwear Phantom">
+            <h3 class="text-center">Mountain Hardwear Phantom</h3>
+            </a>
+            <p class="text-center">GORE-TEX -40 Sleeping Bag.</p>
+            <div class="star text-center">
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            </div>
+            <h2>€286.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-3 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Outdoor_Research_Alpine_AscentShell_main.jpg" alt="">
+        <div class="card-body">
+            <!--  <a href="./product.html#Outdoor Research Alpine AscentShell" style="text-decoration:none;"> -->
+            <a href="@Url.Action("Product", "Home")#Outdoor Research Alpine AscentShell">
+            <h3 class="text-center">Outdoor Research Alpine</h3>
+            </a>
+            <p class="text-center">AscentShell Bivy</p>
+            <div class="star text-center">
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            <i class="fa-solid fa-star checked"></i>
+            </div>
+            <h2>€315.00 <span><a href="cart.html"><li class="fa-solid fa-cart-shopping"></li></a></span></h2>
+        </div>
+        </div>
+    </div>
     </div>
 </div>
-<!-- product cards -->
+<!-- top product cards -->
+
 <!-- categories -->
-<div class="container" id="categories">
+<div class="container" id="product-cards">
     <h1 class="text-center">CATEGORIES</h1>
-    <div class="row" style="margin-top: 30px;">
-        <!-- You can add category items here -->
-    </div>
+    <div class="row" style="margin-top: 30p"></div>
 </div>
 <!-- categories -->
+
 <!-- category cards -->
 <div class="container" id="other-cards">
     <div class="row">
-        <div class="col-md-6 py-3 py-md-0">
-            <div class="card">
-                <img src="./images/main/CatTents_main.jpg" alt="">
-                <div class="card-img-overlay">
-                    <h3>Tents</h3>
-                    <h5>View Range</h5>
-                    <p>Up To 30% Off</p>
-                    <div class="btn">
-                        <button onclick="location.href='./index.html#Tents'">Go</button>
-                    </div>
-                </div>
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/CatTents_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Tents</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Tents'">Go</button>
             </div>
         </div>
-        <div class="col-md-6 py-3 py-md-0">
-            <div class="card">
-                <img src="./images/main/CatSleepbag_main.jpg" alt="">
-                <div class="card-img-overlay">
-                    <h3>Sleeping Bags</h3>
-                    <h5>View Range</h5>
-                    <p>Up To 30% Off</p>
-                    <div class="btn">
-                        <button onclick="location.href='./index.html#Sleepingbags'">Go</button>
-                    </div>
-                </div>
+        </div>
+    </div>
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/CatSleepbag_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Sleeping Bags</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Sleepingbags'">Go</button>
             </div>
         </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<div class="container" id="other-cards">
+    <div class="row">
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Therm_a_Rest_NeoAir_XLite_NXT_Max_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Sleepmats</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Sleeping Mats'">Go</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/BiviShelters_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Bivi Bags &amp Shelters</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Bivi Bags'">Go</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<div class="container" id="other-cards">
+    <div class="row">
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Sea_to_Summit_Big_River_50L_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Stuff Sacs &amp Dry Bags</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Dry Bags'">Go</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Leatherman_Charge_Plus_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Multitools &amp Knives</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Multitools'">Go</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<div class="container" id="other-cards">
+    <div class="row">
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Stoves_Pots_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Stoves &amp Pots</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Stoves & Pots'">Go</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-6 py-3 py-md-0">
+        <div class="card">
+        <img src="./images/main/Petzl_Tikka_main.jpg" alt="">
+        <div class="card-img-overlay">
+            <h3>Headtorches</h3>
+            <h5>View Range</h5>
+            <p>Up To 30% Off</p>
+            <div class="btn">
+            <button onclick="location.href='./index.html#Headtorches'">Go</button>
+            </div>
+        </div>
+        </div>
+    </div>
     </div>
 </div>
 <!-- category cards -->
+
 <!-- banner -->
 <section class="banner">
     <div class="content">
@@ -101,15 +260,17 @@
             <br>Why not Register an account and enjoy discounts and special offers?
         </p>
         <div class="btn">
-            <button onclick="location.href='@Url.Content(" ~ /register.html")'">Register</button>
+            <button onclick="location.href='@Url.Action("Register", "Home")'">Register</button>
         </div>
     </div>
     <div class="img">
-        <img src="@Url.Content(" ~ /images/main/bottle_hiker.jpg")" alt="">
+        <img src="~/images/main/bottle_hiker.jpg" alt="">
     </div>
 </section>
 <!-- banner -->
+
 <!-- Catalogue Product Cards -->
+<!-- ======================s -->
 <!-- tents -->
 <section id="Tents"></section>
 <div class="container" id="product-cards">
@@ -120,7 +281,7 @@
                 <img src="./images/tents/Zempire_Trilogy.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="product.html#Zempire Trilogy">Zempire Trilogy</a>
+                        <a href="@Url.Action("Product", "Home")#Zempire Trilogy">Zempire Trilogy</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -138,7 +299,7 @@
                 <img src="./images/tents/mountainsmith_celestial_3.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Mountainsmith Celestial 3">Mountainsmith Celestial 3</a>
+                        <a href="@Url.Action("Product", "Home")#Mountainsmith Celestial 3">Mountainsmith Celestial 3</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -154,7 +315,7 @@
                 <img src="./images/tents/Marmot_Tungsten_4P.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Marmot Tungsten 4P">Marmot Tungsten 4P</a>
+                        <a href="@Url.Action("Product", "Home")#Marmot Tungsten 4P">Marmot Tungsten 4P</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -171,7 +332,7 @@
                 <img src="./images/tents/Big_Agnes_Copper.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Big Agnes Copper">Big Agnes Copper</a>
+                        <a href="@Url.Action("Product", "Home")#Big Agnes Copper">Big Agnes Copper</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -186,6 +347,7 @@
     </div>
 </div>
 <!-- tents -->
+
 <!-- sleeping bags -->
 <section id="Sleepingbags"></section>
 <div class="container" id="product-cards">
@@ -196,7 +358,7 @@
                 <img src="./images/sleeping_bags/Mountain_Equipment_Iceline.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Mountain Equipment Iceline">Mountain Equipment Iceline</a>
+                        <a href="@Url.Action("Product", "Home")#Mountain Equipment Iceline">Mountain Equipment Iceline</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -214,7 +376,7 @@
                 <img src="./images/sleeping_bags/Rab_Mythic_Ultra_180.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Rab Mythic Ultra 180">Rab Mythic Ultra 180</a>
+                        <a href="@Url.Action("Product", "Home")#Rab Mythic Ultra 180">Rab Mythic Ultra 180</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -232,7 +394,7 @@
                 <img src="./images/sleeping_bags/Mountain_Hardwear_Phantom_GORE_TEX_40.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Mountain Hardwear Phantom">Mountain Hardwear Phantom</a>
+                        <a href="@Url.Action("Product", "Home")#Mountain Hardwear Phantom">Mountain Hardwear Phantom</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -250,7 +412,7 @@
                 <img src="./images/sleeping_bags/rab_unisex neutrino_400.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Rab Neutrino 400">Rab Neutrino 400</a>
+                        <a href="@Url.Action("Product", "Home")#Rab Neutrino 400">Rab Neutrino 400</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -266,6 +428,7 @@
     </div>
 </div>
 <!-- sleeping bags -->
+
 <!-- sleeping mats -->
 <section id="SleepingMats"></section>
 <div class="container" id="product-cards">
@@ -276,7 +439,7 @@
                 <img src="./images/sleepmats/Sea_to_Summit_Ether_Light_XT_Extreme.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Sea to Summit Ether Light XT Extreme">Sea to Summit Ether Light XT Extreme</a>
+                        <a href="@Url.Action("Product", "Home")#Sea to Summit Ether Light XT Extreme">Sea to Summit Ether Light XT Extreme</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -294,7 +457,7 @@
                 <img src="./images/sleepmats/Sea_to_Summit_Comfort_Deluxe.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Sea to Summit Comfort Deluxe">Sea to Summit Comfort Deluxe</a>
+                        <a href="@Url.Action("Product", "Home")#Sea to Summit Comfort Deluxe">Sea to Summit Comfort Deluxe</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -312,7 +475,7 @@
                 <img src="./images/sleepmats/Sea_to_Summit_Comfort_Plus_XT.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#Sea to Summit Comfort Plus XT">Sea to Summit Comfort Plus XT</a>
+                        <a href="@Url.Action("Product", "Home")#Sea to Summit Comfort Plus XT">Sea to Summit Comfort Plus XT</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -330,7 +493,7 @@
                 <img src="./images/sleepmats/NEMO_Roamer_XL_Wide.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="./product.html#NEMO Roamer Sleeping Pad XL Wide">NEMO Roamer Sleeping Pad XL Wide</a>
+                        <a href="@Url.Action("Product", "Home")#NEMO Roamer Sleeping Pad XL Wide">NEMO Roamer Sleeping Pad XL Wide</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -345,6 +508,8 @@
     </div>
 </div>
 <!-- sleeping mats -->
+
+<!-- bivi bags -->
 <section id="BiviBags"></section>
 <div class="container" id="product-cards">
     <h1 class="text-center">BIVI BAGS &amp; SHELTERS</h1>
@@ -354,7 +519,7 @@
                 <img src="~/images/bivi_shelters/Outdoor_Research_Helium.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#OutdoorResearchHelium">Outdoor Research Helium</a>
+                        <a href="@Url.Action("Product", "Home")#OutdoorResearchHelium">Outdoor Research Helium</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -372,9 +537,8 @@
                 <img src="~/images/bivi_shelters/Outdoor_Research_Alpine_AscentShell.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#OutdoorResearchAlpineAscentShell">Outdoor Research Alpine AscentShell</a>
+                        <a href="@Url.Action("Product", "Home")#OutdoorResearchAlpineAscentShell">Outdoor Research Alpine AscentShell</a>
                     </h3>
-                    <p class="text-center">Lorem ipsum dolor sit amet.</p>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
                         <i class="fa-solid fa-star checked"></i>
@@ -390,9 +554,8 @@
                 <img src="~/images/bivi_shelters/MSR_E-Bivy.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#MSREBivy">MSR E-Bivy</a>
+                        <a href="@Url.Action("Product", "Home")#MSREBivy">MSR E-Bivy</a>
                     </h3>
-                    <p class="text-center">Lorem ipsum dolor sit amet.</p>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
                         <i class="fa-solid fa-star checked"></i>
@@ -407,9 +570,8 @@
                 <img src="~/images/bivi_shelters/Lifesystems_Light_Dry.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#LifesystemsLightDryHeatshield">Lifesystems Light &amp; Dry Heatshield Thermal</a>
+                        <a href="@Url.Action("Product", "Home")#LifesystemsLightDryHeatshield">Lifesystems Light &amp; Dry Heatshield Thermal</a>
                     </h3>
-                    <p class="text-center">Lorem ipsum dolor sit amet.</p>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
                         <i class="fa-solid fa-star checked"></i>
@@ -422,6 +584,7 @@
     </div>
 </div>
 <!-- sleeping mats -->
+
 <!-- dry bags -->
 <section id="DryBags"></section>
 <div class="container" id="product-cards">
@@ -432,7 +595,7 @@
                 <img src="~/images/stuff_dry_bags/NRS_Outfitter.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#NRSOutfitterDryBag">NRS Outfitter Dry Bag</a>
+                        <a href="@Url.Action("Product", "Home")#NRSOutfitterDryBag">NRS Outfitter Dry Bag</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -449,7 +612,7 @@
                 <img src="~/images/stuff_dry_bags/Sea_to_Summit_Big_River_35L.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#SeaToSummitBigRiver">Sea to Summit Big River Dry Bag</a>
+                        <a href="@Url.Action("Product", "Home")#SeaToSummitBigRiver">Sea to Summit Big River Dry Bag</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -467,7 +630,7 @@
                 <img src="~/images/stuff_dry_bags/Sea_to_Summit_Lightweight_Set.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product#SeaToSummitLightweightSet">Sea to Summit Big River Dry Bag Set</a>
+                        <a href="@Url.Action("Product", "Home")#SeaToSummitLightweightSet">Sea to Summit Big River Dry Bag Set</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -484,7 +647,7 @@
                 <img src="~/images/stuff_dry_bags/SealLine_Discovery_30L.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#SealLine Discovery Dry Bag 30L">SealLine Discovery Dry Bag - 30 Liters</a>
+                        <a href="@Url.Action("Product", "Home")#SealLine Discovery Dry Bag 30L">SealLine Discovery Dry Bag - 30 Liters</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -499,6 +662,7 @@
     </div>
 </div>
 <!-- dry bags -->
+
 <!-- multitools -->
 <section id="Multitools"></section>
 <div class="container" id="product-cards">
@@ -509,7 +673,7 @@
                 <img src="~/images/multitools/Leatherman_Skeletool.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Leatherman Skeletool">Leatherman Skeletool MultiTool</a>
+                        <a href="@Url.Action("Product", "Home")#Leatherman Skeletool">Leatherman Skeletool MultiTool</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -527,7 +691,7 @@
                 <img src="~/images/multitools/Petzl_Spatha.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Petzl Spatha">Petzl Spatha Climbing Kayaking Knife</a>
+                        <a href="@Url.Action("Product", "Home")#Petzl Spatha">Petzl Spatha Climbing Kayaking Knife</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -545,7 +709,7 @@
                 <img src="~/images/multitools/Victorinox_Champ_Swiss_Army_Pocket.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Victorinox Champ Swiss Army Pocket">Victorinox Champ Swiss Army Pocket Knife</a>
+                        <a href="@Url.Action("Product", "Home")#Victorinox Champ Swiss Army Pocket">Victorinox Champ Swiss Army Pocket Knife</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -563,7 +727,7 @@
                 <img src="~/images/multitools/Victorinox_Swiss_Card_Classic.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Victorinox Swiss Card Classic">Victorinox Swiss Card Classic Multitool</a>
+                        <a href="@Url.Action("Product", "Home")#Victorinox Swiss Card Classic">Victorinox Swiss Card Classic Multitool</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -579,6 +743,7 @@
     </div>
 </div>
 <!-- multitools -->
+
 <!-- stoves & pots -->
 <section id="Stoves &amp; Pots"></section>
 <div class="container" id="product-cards">
@@ -589,7 +754,7 @@
                 <img src="~/images/stoves_pots/Esbit_Alcohol_Stove_Trekking_Cookset.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Esbit Alcohol Stove">Esbit Alcohol Stove and Trekking Cookset</a>
+                        <a href="@Url.Action("Product", "Home")#Esbit Alcohol Stove">Esbit Alcohol Stove and Trekking Cookset</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -607,7 +772,7 @@
                 <img src="~/images/stoves_pots/MSR_WindBurner_System.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#MSR WindBurner Stove System">MSR WindBurner Stove System</a>
+                        <a href="@Url.Action("Product", "Home")#MSR WindBurner Stove System">MSR WindBurner Stove System</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -625,7 +790,7 @@
                 <img src="~/images/stoves_pots/MSR_WindBurner_Combo_System.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#MSR WindBurner Combo">MSR WindBurner Combo Stove System</a>
+                        <a href="@Url.Action("Product", "Home")#MSR WindBurner Combo">MSR WindBurner Combo Stove System</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -643,7 +808,7 @@
                 <img src="~/images/stoves_pots/Coleman_Cascade_2Burner.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Coleman Cascade 2-Burner">Coleman Cascade 2-Burner Camp Stove</a>
+                        <a href="@Url.Action("Product", "Home")#Coleman Cascade 2-Burner">Coleman Cascade 2-Burner Camp Stove</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -659,6 +824,7 @@
     </div>
 </div>
 <!-- stoves & pots -->
+
 <!-- headtorches -->
 <section id="Headtorches"></section>
 <div class="container" id="product-cards">
@@ -669,7 +835,7 @@
                 <img src="~/images/headtorches/BioLite_HeadLamp_800_Pro.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#BioLite HeadLamp 800 Pro">BioLite HeadLamp 800 Pro</a>
+                        <a href="@Url.Action("Product", "Home")#BioLite HeadLamp 800 Pro">BioLite HeadLamp 800 Pro</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -687,7 +853,7 @@
                 <img src="~/images/headtorches/Petzl_NAO_RL.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Petzl NAO RL Headlamp">Petzl NAO RL Headlamp</a>
+                        <a href="@Url.Action("Product", "Home")#Petzl NAO RL Headlamp">Petzl NAO RL Headlamp</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -705,7 +871,7 @@
                 <img src="~/images/headtorches/Petzl_Swift_RL.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Petzl Swift RL Headlamp">Petzl Swift RL Headlamp</a>
+                        <a href="@Url.Action("Product", "Home")#Petzl Swift RL Headlamp">Petzl Swift RL Headlamp</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -723,7 +889,7 @@
                 <img src="~/images/headtorches/Black_Diamond_Spot_400.jpg" alt="">
                 <div class="card-body">
                     <h3 class="text-center">
-                        <a href="~/product.html#Black Diamond Spot 400">Black Diamond Spot 400 Headlamp</a>
+                        <a href="@Url.Action("Product", "Home")#Black Diamond Spot 400">Black Diamond Spot 400 Headlamp</a>
                     </h3>
                     <div class="star text-center">
                         <i class="fa-solid fa-star checked"></i>
@@ -739,7 +905,8 @@
     </div>
 </div>
 <!-- headtorches -->
-<!-- shipping -->
+
+<!-- shipping banner -->
 <div class="container" id="offer">
     <div class="row">
         <div class="col-md-3 py-3 py-md-0">
@@ -764,14 +931,15 @@
         </div>
     </div>
 </div>
-<!-- shipping -->
+<!-- shipping banner -->
+
 <!-- register prompt -->
-<div class="container" id="newslater">
+<div class="container" id="newsletter">
     <h3 class="text-center">Register with BOALMA Camping For Latest Offers.</h3>
     <div class="input text-center">
         <input type="text" placeholder="Enter Your Email..">
         <div class="btn">
-            <button onclick="location.href='register.html'">Register</button>
+            <button onclick="location.href='@Url.Action("Register", "Home")'">Register</button>
         </div>
     </div>
 </div>

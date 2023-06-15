@@ -1,0 +1,84 @@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- TEST VIEWS -->
+<div class="container" id="contact">
+    <h3 class="text-center">Test.</h3>
+    <div class="row" style="margin-top: 30px;">
+        <div class="messagebtn text-center"><button onclick="location.href='@Url.Action("Welcome", "Home")'">Welcome</button></div>
+    </div>
+</div>
+
+<!-- ACL form -->
+<div class="container" id="contact">
+    <div class="row" style="margin-top: 50px;">
+        <div class="col-md-4 py-3 py-md-0">
+            <div class="card">
+                <i class="fas fa-phone"> Phone</i>
+                <h6>+353 1 4689729</h6>
+            </div>
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+            <div class="card">
+                <i class="fas fa-envelope"> Email</i>
+                <h6>info@boalmacamping.ie</h6>
+            </div>
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+            <div class="card">
+                <i class="fas fa-location-dot"> Address</i>
+                <h6>Dublin / Cork / Galway</h6>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-md-4 py-3 py-md-0">
+            <input type="text" class="form-control form-control" placeholder="Name">
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+            <input type="text" class="form-control form-control" placeholder="Email">
+        </div>
+        <div class="col-md-4 py-3 py-md-0">
+            <input type="text" class="form-control form-control" placeholder="Phone">
+        </div>
+        <div class="form-group" style="margin-top: 30px;">
+            <textarea class="form-control" id="" rows="5" placeholder="Message"></textarea>
+        </div>
+        <div class="messagebtn text-center"><button>Message</button></div>
+    </div>
+</div>
+<h1><br></h1>
+
+<!-- ACL form -->
+
+<!-- register prompt -->
+<div class="container" id="newsletter">
+    <h3 class="text-center">Register with BOALMA Camping For Latest Offers.</h3>
+    <div class="input text-center">
+        <input type="text" placeholder="Enter Your Email..">
+        <div class="btn">
+            <button onclick="location.href='@Url.Action("Register", "Home")'">Register</button>
+        </div>
+    </div>
+</div>
+<!-- register prompt -->
+
+<a href="#" class="arrow"><i><img src="~/Images/arrow.png" alt=""></i></a>
+
+<style>
+  html{
+    scroll-behavior: smooth;
+  }
+  .arrow{
+      position: fixed;
+      width: 50px;
+      height: 50px;
+      bottom: 50px;
+      right: 50px;
+      text-decoration: none;
+      text-align: right;
+      line-height: 50px;
+  }
+</style>

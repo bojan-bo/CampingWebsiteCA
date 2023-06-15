@@ -1,0 +1,64 @@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- welcome banner -->
+<section class="banner">
+  <div class="content">
+    <h1> <span>Welcome Back</span></h1>
+    <div class="btn">
+      <button onclick="location.href='@Url.Action("Index", "Home")'">Home</button>
+    </div>
+  </div>
+  <div class="img">
+    <img src="~/Images/main/about.jpg" alt="">
+  </div>
+</section>
+<!-- welcome banner -->
+
+
+<!-- shipping -->
+<div class="container" id="offer">
+  <div class="row">
+    <div class="col-md-3 py-3 py-md-0">
+      <i class="fa-solid fa-cart-shopping"></i>
+      <h3>Free Shipping</h3>
+      <p>Within Ireland on orders over €150</p>
+    </div>
+    <div class="col-md-3 py-3 py-md-0">
+      <i class="fa-solid fa-rotate-left"></i>
+      <h3>Free Returns</h3>
+      <p>Within 30 days</p>
+    </div>
+    <div class="col-md-3 py-3 py-md-0">
+      <i class="fa-solid fa-truck"></i>
+      <h3>Fast Delivery</h3>
+      <p>Within the EU</p>
+    </div>
+    <div class="col-md-3 py-3 py-md-0">
+      <i class="fa-solid fa-thumbs-up"></i>
+      <h3>Huge Range</h3>
+      <p>Many Brands</p>
+    </div>
+  </div>
+</div>
+<!-- shipping -->
+
+<a href="#" class="arrow"><i><img src="~/Images/arrow.png" alt=""></i></a>
+
+<style>
+  html{
+    scroll-behavior: smooth;
+  }
+  .arrow{
+      position: fixed;
+      width: 50px;
+      height: 50px;
+      bottom: 50px;
+      right: 50px;
+      text-decoration: none;
+      text-align: right;
+      line-height: 50px;
+  }
+</style>
