@@ -6,18 +6,30 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CampingWebsiteMVC/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CampingWebsiteMVC/Program.cs">
     <Files>
-      <File FileName="CampingWebsiteMVC/Views/Home/Index.cshtml" Line="16" Column="52" />
+      <File FileName="CampingWebsiteMVC/Views/Home/Index.cshtml" Line="16" Column="12" />
+      <File FileName="CampingWebsiteMVC/Views/product.html" Line="14" Column="25" />
+      <File FileName="CampingWebsiteMVC/Views/Shared/_Layout.cshtml" Line="60" Column="105" />
+      <File FileName="CampingWebsiteMVC/Views/Home/Product.cshtml" Line="1" Column="1" />
+      <File FileName="CampingWebsiteMVC/Views/Home/Register.cshtml" Line="1" Column="1" />
+      <File FileName="CampingWebsiteMVC/Views/Home/Welcome.cshtml" Line="1" Column="1" />
+      <File FileName="CampingWebsiteAPI/Controllers/AppUserController.cs" Line="9" Column="1" />
+      <File FileName="CampingWebsiteAPI/Program.cs" Line="6" Column="1" />
+      <File FileName="CampingWebsiteMVC/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CampingWebsiteCA" selected="True" />
+          <Node name="CampingWebsiteCA">
+            <Node name="CampingWebsiteAPI" selected="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="CampingWebsiteCA" expanded="True" />
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

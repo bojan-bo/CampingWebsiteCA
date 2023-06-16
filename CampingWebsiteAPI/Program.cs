@@ -3,7 +3,6 @@ using CampingWebsiteAPI.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.Options;
-using Microsoft.Extensions.Configuration;
 using System.Text;
 using Microsoft.OpenApi.Models;
 
