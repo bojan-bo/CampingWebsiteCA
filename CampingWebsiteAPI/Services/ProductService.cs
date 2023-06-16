@@ -24,24 +24,19 @@ namespace CampingWebsiteAPI.Services
 
         public Product Get(string id)
         {
-            // Debug: Print all product Ids
             var allProductIds = _products.Find(product => true).ToList().Select(p => p.Id);
             Console.WriteLine("All Product Ids: " + string.Join(", ", allProductIds));
 
-            // Use a case-insensitive Regex search for the product ID
             var objectId = new ObjectId(id);
             var filter = Builders<Product>.Filter.Regex("_id", new BsonRegularExpression(objectId.ToString(), "i"));
             var product = _products.Find(filter).FirstOrDefault();
 
-            // Debug: Print the product details
-            if (product != null)
+            if (product == null)
             {
-                Console.WriteLine($"ProductService Get: {product.Id}, {product.Name}, {product.Price}");
+                throw new NotFoundException($"Product not found with id {id}");
             }
-            else
-            {
-                Console.WriteLine($"ProductService Get: Product not found with id {id}");
-            }
+
+            Console.WriteLine($"ProductService Get: {product.Id}, {product.Name}, {product.Price}");
 
             return product;
         }
@@ -66,7 +61,7 @@ namespace CampingWebsiteAPI.Services
         public Dictionary<string, Product> GetAllAsDictionary()
         {
             var products = _products.Find(product => true).ToList();
-            return products.ToDictionary(p => p.Id, p => p);
+            return products.ToDictionary(p => p.Id!, p => p);
         }
 
         public Product Create(Product product)

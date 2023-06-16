@@ -39,8 +39,7 @@ namespace CampingWebsiteAPI.Services
             _appUserService.Update(user.Id, user);
         }
 
-
-        public async Task ClearCartAsync(string userId)
+        public void ClearCart(string userId)
         {
             // Get the current user
             var currentUser = _appUserService.GetUserById(userId);
@@ -51,11 +50,6 @@ namespace CampingWebsiteAPI.Services
             // Update the user in the database
             _appUserService.Update(currentUser.Id, currentUser);
         }
-
-
-
-
-
 
         public void DecreaseQuantity(string userId, string productId)
         {

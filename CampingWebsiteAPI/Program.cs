@@ -72,10 +72,12 @@ builder.Services.AddAuthentication(x =>
 {
     x.RequireHttpsMetadata = false; // Set this to true in production
     x.SaveToken = true;
+    var configuration = builder.Configuration;
+    string jwtKey = configuration?["Jwt:Key"] ?? "";
     x.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"])),
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(jwtKey)),
         ValidateIssuer = false,
         ValidateAudience = false
     };

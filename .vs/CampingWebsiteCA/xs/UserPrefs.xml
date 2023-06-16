@@ -1,11 +1,9 @@
-﻿<Properties StartupConfiguration="{EEF5984B-07D0-4A5F-8498-52D8D5FF2047}|http">
+﻿<Properties StartupConfiguration="{44931DC1-A139-44FE-8285-2E11735E02FF}|https">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CampingWebsiteAPI PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CampingWebsiteMVC PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="CampingWebsiteMVC/Program.cs">
     <Files>
       <File FileName="CampingWebsiteMVC/Views/Home/Index.cshtml" Line="16" Column="12" />

@@ -44,30 +44,39 @@ namespace CampingWebsiteAPI.Controllers
             if (appUser != null && BCrypt.Net.BCrypt.Verify(model.Password, appUser.Password))
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
-                var tokenDescriptor = new SecurityTokenDescriptor
+                var key = _configuration["Jwt:Key"];
+                if (key != null)
                 {
-                    Subject = new ClaimsIdentity(new Claim[] 
+                    var encodedKey = Encoding.ASCII.GetBytes(key);
+                    var tokenDescriptor = new SecurityTokenDescriptor
                     {
-                        new Claim(ClaimTypes.Name, appUser.Id.ToString())
-                        // Add other claims as needed
-                    }),
-                    Expires = DateTime.UtcNow.AddDays(7),
-                    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
-                };
-                var token = tokenHandler.CreateToken(tokenDescriptor);
-                var response = new
+                        Subject = new ClaimsIdentity(new Claim[]
+                        {
+                    new Claim(ClaimTypes.Name, appUser.Id.ToString())
+                        }),
+                        Expires = DateTime.UtcNow.AddDays(7),
+                        SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(encodedKey), SecurityAlgorithms.HmacSha256Signature)
+                    };
+                    var token = tokenHandler.CreateToken(tokenDescriptor);
+                    var response = new
+                    {
+                        UserId = appUser.Id,
+                        UserName = appUser.Name,
+                        CartItemCount = appUser.CartItems?.Count ?? 0, // Assuming CartItems is a list or collection
+                        Token = tokenHandler.WriteToken(token)
+                    };
+                    return Ok(response);
+                }
+                else
                 {
-                    UserId = appUser.Id,
-                    UserName = appUser.Name,
-                    CartItemCount = appUser.CartItems.Count, // assuming CartItems is a list or collection
-                    Token = tokenHandler.WriteToken(token)
-                };
-                return Ok(response);
+                    // Handle the case when the key is null, e.g., throw an exception or return an appropriate response
+                    return StatusCode(500, "Jwt:Key is not configured.");
+                }
             }
 
             return Unauthorized();
         }
+
 
 
         [HttpPost("logout")]
@@ -104,8 +113,8 @@ namespace CampingWebsiteAPI.Controllers
 
     public class LoginRequestModel
     {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public string Email { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
     }
 }
 

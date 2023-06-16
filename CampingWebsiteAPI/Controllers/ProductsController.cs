@@ -47,15 +47,23 @@ namespace CampingWebsiteAPI.Controllers
         [Authorize]
         public IActionResult AddToCart([FromBody] CartItem cartItem)
         {
-            string userId = HttpContext.User.Identity.Name;
+            string? userId = HttpContext.User?.Identity?.Name;
+
+            if (userId == null)
+            {
+                // Handle the case where the user identity is null
+                return Unauthorized();
+            }
 
             _cartService.AddItem(userId, cartItem);
 
             AppUser currentUser = _appUserService.GetUserById(userId);
-            currentUser.CartItems = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items;
+            var cart = _cartService.GetCartsByUserId(userId).FirstOrDefault();
+            currentUser.CartItems = cart?.Items ?? new List<CartItem>();
             _appUserService.Update(currentUser.Id, currentUser);
 
             return Ok();
         }
+
     }
 }

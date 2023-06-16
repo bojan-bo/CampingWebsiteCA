@@ -21,26 +21,32 @@ namespace CampingWebsiteAPI.Controllers
         [HttpPost("increase-quantity/{productId}")]
         public IActionResult IncreaseQuantity(string productId)
         {
-            string userId = HttpContext.User.Identity.Name;
+            string? userId = HttpContext.User?.Identity?.Name;
+            if (userId != null)
+            {
+                _cartService.IncreaseQuantity(userId, productId);
+                int cartItemCount = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items.Sum(item => item.Quantity) ?? 0;
 
-            _cartService.IncreaseQuantity(userId, productId);
-            int cartItemCount = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items.Sum(item => item.Quantity) ?? 0;
+                return Ok(cartItemCount);
+            }
 
-            return Ok(cartItemCount);
+            return Unauthorized();
         }
 
         [HttpPost("decrease-quantity/{productId}")]
         public IActionResult DecreaseQuantity(string productId)
         {
-            string userId = HttpContext.User.Identity.Name;
+            if (HttpContext.User?.Identity?.Name != null)
+            {
+                string userId = HttpContext.User.Identity.Name;
+                _cartService.DecreaseQuantity(userId, productId);
+                int cartItemCount = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items.Sum(item => item.Quantity) ?? 0;
 
-            _cartService.DecreaseQuantity(userId, productId);
-            int cartItemCount = _cartService.GetCartsByUserId(userId).FirstOrDefault()?.Items.Sum(item => item.Quantity) ?? 0;
+                return Ok(cartItemCount);
+            }
 
-            return Ok(cartItemCount);
+            return Unauthorized();
         }
-
-        // Add other actions to manage the cart (e.g., AddItem, RemoveItem, UpdateQuantity)
     }
 }
 

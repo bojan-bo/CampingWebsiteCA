@@ -7,10 +7,10 @@ namespace CampingWebsiteAPI.Models
     {
         [Required]
         [CreditCard]
-        public string CardNumber { get; set; }
+        public string CardNumber { get; set; } = string.Empty;
 
         [Required]
-        public string CardName { get; set; }
+        public string CardName { get; set; } = string.Empty;
 
         [Required]
         [DataType(DataType.Date)]
