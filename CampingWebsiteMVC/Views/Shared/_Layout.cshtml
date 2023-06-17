@@ -31,9 +31,8 @@
         <div class="top-navbar">
             <p>WELCOME</p>
             <div class="icons">
-                <!--<a href="@Url.Action("Login", "Account")"><img src="@Url.Content("~/images/register.png")" alt="" width="18px">LOGIN</a>    Connection Required -->
-                <a href='@Url.Action("Login", "Home")'><img src="@Url.Content("~/images/register.png")" alt="" style="width: 18px;">LOGIN</a>
-                <a href='@Url.Action("Register", "Home")'><img src="@Url.Content("~/images/register.png")" alt="" style="width: 18px;">REGISTER</a>
+                <a href='@Url.Action("Login", "Home")'><img src="@Url.Content("~/images/register.png")" alt="Login button" style="width: 18px">LOGIN</a>
+                <a href='@Url.Action("Register", "Home")'><img src="@Url.Content("~/images/register.png")" alt="Register button" style="width: 18px">REGISTER</a>
             </div>
         </div>
         <!-- top navbar -->
@@ -42,7 +41,7 @@
             <div class="container-fluid">
                 <a class="navbar-brand" href="@Url.Action("Index", "Home")" id="logo"><span id="span1">B</span>O<span id="span1">A</span>L<span id="span1">M</span>A <span>Camping</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span><img src="@Url.Content("~/Images/menu.png")" alt="" style="width: 30px;"></span>
+                    <span><img src="@Url.Content("~/Images/menu.png")" alt="" style="width: 30px"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -55,14 +54,14 @@
                                 Category
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: rgb(53, 137, 70);">
-                                <li><a class="dropdown-item" href="#Tents">Tents</a></li>
-                                <li><a class="dropdown-item" href="#Sleepingbags">Sleeping Bags</a></li>
-                                <li><a class="dropdown-item" href="#SleepingMats">Sleepmats</a></li>
-                                <li><a class="dropdown-item" href="#BiviBags">Bivi Bags & Shelters</a></li>
-                                <li><a class="dropdown-item" href="#DryBags">Stuff Sacs & Dry Bags</a></li>
-                                <li><a class="dropdown-item" href="#Multitools">Multitools & Knives</a></li>
-                                <li><a class="dropdown-item" href="#StovesPots">Stoves & Pots</a></li>
-                                <li><a class="dropdown-item" href="#Headtorches">Headtorches</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#Tents">Tents</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#Sleepingbags">Sleeping Bags</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#SleepingMats">Sleepmats</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#BiviBags">Bivi Bags & Shelters</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#DryBags">Stuff Sacs & Dry Bags</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#Multitools">Multitools & Knives</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#StovesPots">Stoves & Pots</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("Index", "Home")#Headtorches">Headtorches</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">

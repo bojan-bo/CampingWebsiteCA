@@ -1,42 +1,46 @@
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Create Account";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <div class="container" id="login">
-  <div class="row">
-      <div class="col-md-5 py-3 py-md-0" id="side1">
-          <h3 class="text-center">Register!</h3>
-      </div>
-      <div class="col-md-7 py-3 py-md-0" id="side2">
-          <h3 class="text-center">Create Account</h3>
-          <div class="input2 text-center">
-          <input type="name" placeholder="Name">
-          <input type="name" placeholder="User Name">
-          <input type="number" placeholder="Phone">
-          <input type="email" placeholder="Email">
-          <input type="password" placeholder="Password">
-          </div>
-          <p class="text-center" id="btnlogin"><a href="#">SIGN UP</a></p>
-      </div>
-
-  </div>
+    <div class="row">
+        <div class="col-md-5 py-3 py-md-0" id="side1">
+            <h3 class="text-center">Register!</h3>
+        </div>
+        <div class="col-md-7 py-3 py-md-0" id="side2">
+            <h3 class="text-center">Create Account</h3>
+            <form method="post" action="@Url.Action("Register", "User")">
+                <div class="input2 text-center">
+                    <input type="text" name="Name" placeholder="Name">
+                    <input type="text" name="UserName" placeholder="User Name">
+                    <input type="number" name="Phone" placeholder="Phone">
+                    <input type="email" name="Email" placeholder="Email">
+                    <input type="password" name="Password" placeholder="Password">
+                </div>
+                <p class="text-center" id="btnlogin">
+                    <input type="submit" value="SIGN UP">
+                </p>
+            </form>
+        </div>
+    </div>
 </div>
 
 <a href="#" class="arrow"><i><img src="~/Images/arrow.png" alt=""></i></a>
 
 <style>
-  html{
-    scroll-behavior: smooth;
-  }
-  .arrow{
-      position: fixed;
-      width: 50px;
-      height: 50px;
-      bottom: 50px;
-      right: 50px;
-      text-decoration: none;
-      text-align: right;
-      line-height: 50px;
-  }
+    html {
+        scroll-behavior: smooth;
+    }
+
+    .arrow {
+        position: fixed;
+        width: 50px;
+        height: 50px;
+        bottom: 50px;
+        right: 50px;
+        text-decoration: none;
+        text-align: right;
+        line-height: 50px;
+    }
 </style>

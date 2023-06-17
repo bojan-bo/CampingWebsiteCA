@@ -3,6 +3,7 @@ using CampingWebsiteMVC.Models;
 using CampingWebsiteMVC.Services;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Microsoft.AspNetCore.Http;
 
 namespace CampingWebsiteMVC.Controllers
 {
@@ -19,17 +20,34 @@ namespace CampingWebsiteMVC.Controllers
         public async Task<IActionResult> Register(UserViewModel user)
         {
             var json = JsonConvert.SerializeObject(user);
-            var content = new StringContent(json, Encoding.UTF8, "application/json");
+            using var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            var response = await _apiService.PostAsync("/api/AppUser/register", content);
+            var baseUrl = Request.Scheme + "://" + Request.Host.ToString();
+            var url = new Uri(new Uri(baseUrl), "/api/AppUser/register").ToString();
+            var response = await _apiService.PostAsync(url, content);
 
             if (response.IsSuccessStatusCode)
             {
+                // Store user information in session
+                HttpContext.Session.SetString("UserId", user.Id);
+                HttpContext.Session.SetString("UserName", user.Name);
+                // You can store additional user information as needed
+
                 return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                // Handle registration failure
+                var errorMessage = $"Registration failed with status code: {response.StatusCode}";
+                // You can handle specific error scenarios here based on the status code or response content
+
+                ModelState.AddModelError("", errorMessage);
             }
 
             return View(user);
         }
+
+
 
         [HttpPost]
         public async Task<IActionResult> Login(LoginViewModel model)
@@ -42,7 +60,7 @@ namespace CampingWebsiteMVC.Controllers
             if (response.IsSuccessStatusCode)
             {
                 var responseJson = await response.Content.ReadAsStringAsync();
-                var user = JsonConvert.DeserializeObject<UserViewModel>(responseJson);
+                JsonConvert.DeserializeObject<UserViewModel>(responseJson);
 
                 // Store user information in session or cookie
 
